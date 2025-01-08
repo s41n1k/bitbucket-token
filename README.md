@@ -8,7 +8,7 @@
 1. Identify JavaScript files related to a domain using tools like `waybackurls` and `gau`.
 2. Scan these JavaScript files for the presence of `BITBUCKET_READ_TOKEN`.
 3. Save results in a structured and organized format, ensuring duplicate tokens are removed.
-4. This 'BITBUCKET_READ_TOKEN' allows [unauthenticated Bitbucket](https://github.com/s41n1k/git-bitbucket-download) git repository downloads.
+4. This 'BITBUCKET_READ_TOKEN' allows [unauthenticated Bitbucket](https://github.com/s41n1k/UnAuthBitbucket-Repository-Clone) git repository downloads.
 
 ## ✨ Features
 🕵️ Automatic JS Collection: Collects .js file links from Wayback Machine and GAU.\
